@@ -10,3 +10,7 @@ venv/
 
 # OS
 .DS_Store
+
+# Runtime
+.streamlit.pid
+.streamlit/app.log
